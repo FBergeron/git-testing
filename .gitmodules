@@ -1,0 +1,3 @@
+[submodule "ks"]
+	path = ks
+	url = git@github.com:FBergeron/kanasensei.git
